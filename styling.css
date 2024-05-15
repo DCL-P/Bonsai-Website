@@ -1,0 +1,9 @@
+body{
+    background-image: url("images/grey_background.jpg");
+    background-size: cover;
+}
+
+.main-header{
+    background-image: url("images/moss_green_background.jpg");
+    background-size: cover;
+}
