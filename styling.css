@@ -1,9 +1,19 @@
 body{
     background-image: url("images/grey_background.jpg");
-    background-size: cover;
 }
 
+/*MAIN HEADER STYLING*/
 .main-header{
     background-image: url("images/moss_green_background.jpg");
-    background-size: cover;
+    background-size: contain;
 }
+
+.main-text-header{
+    text-align: left;
+    text-align: center;
+}
+
+.main-header-links{
+    text-align: right;
+}
+/*-------------------*/
